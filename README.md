@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node, Mongodb**
 
-- 📫 How to reach me **manish_nj2_103@masai.school**
+- 📫 How to reach me **manishsinghbhadouria4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
